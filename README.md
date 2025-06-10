@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabrielle Ysabel Almirol</h1>
 <h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, the Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025), the Chief Technology Officer of Developers Society Benilde (A.Y. 2024-2025, 2025-2026) and a Freelance Web Developer.</h3>
 
-- 💬 Ask me about **CatBoostAI (Classifier & Regressor), Data Analytics & Statistics**
+- 💬 Ask me about **CatBoostAI (Classifier & Regressor), Python & Frameworks (Django & Flask), Data Analytics & Statistics**
 
 - 📫 How to reach me **gy.almirol@gmail.com**
 
