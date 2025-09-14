@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gabrielle Ysabel Almirol!</h1>
+<h1 align="center">Gabrielle Ysabel Almirol</h1>
 <h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, the Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026), the Chief Technology Officer of Developers Society Benilde (A.Y. 2024-2025, 2025-2026), a Freelance Web Developer and an aspiring Machine Learning Engineer.</h3>
 
 - 💬 Ask me about **CatBoostAI (Classifier & Regressor), Python & Frameworks (Django & Flask), Data Analytics & Statistics**
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriellealmirol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriellealmirol" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrielleysabelalmirol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriellealmirol" height="30" width="40" /></a>
 <a href="https://instagram.com/ysabe1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysabe1s" height="30" width="40" /></a>
 </p>
 
