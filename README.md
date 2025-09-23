@@ -1,5 +1,5 @@
 <h1 align="center">Gabrielle Ysabel Almirol</h1>
-<h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, the Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026), the Chief Technology Officer of Developers Society Benilde (A.Y. 2024-2025, 2025-2026), an aspiring Machine Learning Engineer.</h3>
+<h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, the Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026), the Chief Technology Officer of Developers Society Benilde (A.Y. 2024-2025, 2025-2026), and an aspiring Machine Learning Engineer.</h3>
 
 - 💬 Ask me about **CatBoostAI (Classifier & Regressor), Python & Frameworks (Django & Flask), Data Analytics & Statistics**
 
