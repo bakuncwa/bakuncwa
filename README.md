@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="left">Technology Stack</h3>
+<h2 align="center">Technology Stack</h3>
 
 
 ### Programming
