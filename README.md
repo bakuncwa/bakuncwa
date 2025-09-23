@@ -15,7 +15,8 @@
 
 
 <h2 align="center">Technology Stack</h2>
-
+<p align="center">
+  
 ### 🐍 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B" />
@@ -94,6 +95,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
+</p>
 ---
 
 
