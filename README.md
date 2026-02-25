@@ -1,7 +1,7 @@
 <h1 align="center">Gabrielle Ysabel Almirol</h1>
 <h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, a Business Process Data Engineer Intern (Payments as a Service) at Payreto Services Inc., the Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026), the former Chief Technology Officer of Developers Society Benilde (A.Y. 2024-2025, 2025-2026), and an aspiring Machine Learning Engineer.</h3>
 
-- Ask me about **CatBoostAI (Classifier & Regressor), Python & Frameworks (Django & Flask), Data Analytics & Statistics**
+- Ask me about **CatBoostAI (Classifier & Regressor), Python & Frameworks (Django & Flask), Pipeline Engineering & Statistics**
 
 - How to reach me **gy.almirol@gmail.com**
 
