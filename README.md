@@ -1,7 +1,5 @@
 <h1 align="center">Gabrielle Ysabel Almirol</h1>
-<h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, a Business Process - Data Engineering (Payments as a Service) Intern at Payreto Services Inc., the Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026), the former Chief Technology Officer of Developers Society Benilde (A.Y. 2024-2025, 2025-2026), and an aspiring Machine Learning Engineer.</h3>
-
-- Ask me about **CatBoostAI (Classifier & Regressor), Python & Frameworks (Django & Flask), Pipeline Engineering & Statistics**
+<h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, a Business Process - Data Engineering Intern at Payreto Services Inc., Canada–ASEAN Scholarship and Educational Exchanges for Development (SEED) — DLS-CSB & NSCC 2026 Awardee, a SPG-Y Scholar/the former Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026), the former Chief Technology Officer of Developers Society Benilde (A.Y. 2024-2025, 2025-2026), and an aspiring Data/Machine Learning Engineer.</h3>
 
 - How to reach me **gy.almirol@gmail.com**
 
@@ -17,6 +15,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
