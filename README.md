@@ -1,5 +1,5 @@
 <h1 align="center">Gabrielle Ysabel Almirol</h1>
-<h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, a Data Engineering Intern at Payreto Services Inc., Canada–ASEAN Scholarship and Educational Exchanges for Development (SEED) — DLS-CSB & NSCC 2026 Awardee, a SPG-Y Scholar/the former Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026), the former Chief Technology Officer of Developers Society Benilde (A.Y. 2024-2025, 2025-2026), and an aspiring Data/Machine Learning Engineer.</h3>
+<h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, a Data Engineering Intern at Payreto Services Inc., Canada–ASEAN Scholarship and Educational Exchanges for Development (SEED) — DLS-CSB & NSCC 2026 Awardee, a SPG-Y Scholar/the former Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026).</h3>
 
 - How to reach me **gy.almirol@gmail.com**
 
