@@ -1,123 +1,163 @@
-<h1 align="center">Gabrielle Ysabel Almirol</h1>
-<h3 align="center">A BS Information Systems Student specializing in Data Science from De La Salle - College of St. Benilde, a Data Engineering Intern at Payreto Services Inc., Canada–ASEAN Scholarship and Educational Exchanges for Development (SEED) — DLS-CSB & NSCC 2026 Awardee, a SPG-Y Scholar/the former Web Development Editor of Ad Astra: The Benildean Yearbook (A.Y. 2024-2025, 2025-2026).</h3>
-
-- How to reach me **gy.almirol@gmail.com**
-
-<h3 align="center">Connect with me:</h3> <p align="center"> <a href="https://linkedin.com/in/gabrielleysabelalmirol" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/ysabe1s" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://gy-almirol.web.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/> </a> </p>
-
----
-
-
-<h2 align="center">Technology Stack</h2>
 <p align="center">
-  
-### Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <a href="https://gy-almirol.web.app"><img src="assets/banner.jpg" alt="gy.almirol — README.sys: Gabrielle Ysabel Almirol, data flow → solutions data engineering, systems analysis &amp; design, full-stack software development" /></a>
 </p>
 
-### Front-End Development
-<p>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=1400&color=86B394&center=true&vCenter=true&width=620&lines=%3E+Solutions+Data+Engineer;%3E+Systems+Analyst+%26+Designer;%3E+Full-Stack+Software+Developer" alt="Solutions Data Engineer · Systems Analyst &amp; Designer · Full-Stack Software Developer" />
 </p>
 
-### Back-End Development
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### Mobile App Development
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-### Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
-
-### AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-2E5AAC?style=for-the-badge&logo=catboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_LLM-8E75B2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jamovi-2E86AB?style=for-the-badge&logoColor=white" />
-</p>
-
-### Database
-<p>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### Data Visualization
-<p>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white" />
-</p>
-
-### DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" />
-</p>
-
-### Softwares
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
+<p align="center">
+  <a href="https://gy-almirol.web.app"><img src="https://img.shields.io/badge/Portfolio-121412?style=for-the-badge&logo=firebase&logoColor=86B394" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/gabrielleysabelalmirol"><img src="https://img.shields.io/badge/LinkedIn-121412?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:gy.almirol@gmail.com"><img src="https://img.shields.io/badge/gy.almirol%40gmail.com-121412?style=for-the-badge&logo=gmail&logoColor=86B394" alt="gy.almirol@gmail.com" /></a>
+  <a href="https://instagram.com/ysabe1s"><img src="https://img.shields.io/badge/Instagram-121412?style=for-the-badge&logo=instagram&logoColor=86B394" alt="Instagram" /></a>
 </p>
 
 ---
 
+## `~/whoami`
 
-<h2 align="center">Statistics</h2>
+```
+$ whoami
+Gabrielle Ysabel Almirol
+├── Data Engineering Intern @ Payreto Services Inc.
+├── BS Information Systems, Data Science track · De La Salle - College of St. Benilde
+├── Canada–ASEAN SEED 2026 Scholar · DLS-CSB & Nova Scotia Community College
+└── SPG-Y Scholar · former Web Development Editor, Ad Astra: The Benildean Yearbook
+    (A.Y. 2024-2025, 2025-2026)
+```
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bakuncwa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakuncwa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## `~/projects`
+
+| repo | what it does |
+|---|---|
+| [`mp-commodities-corr`](https://github.com/bakuncwa/mp-commodities-corr) | Serverless GCP pipeline tracking monetary-policy rate moves against metal and semiconductor commodities across 218 economies, with a random-forest rate-hike classifier |
+| [`prt_token-migration`](https://github.com/bakuncwa/prt_token-migration) | PCI DSS card token migration ETL on Cloud Run, Eventarc and Firestore, with Cloud DLP/KMS de-identification |
+| [`btl_model`](https://github.com/bakuncwa/btl_model) | CatBoost ingredient-matching model recommending low-revenue Sephora products |
+| [`ect_flood_allocation_model`](https://github.com/bakuncwa/ect_flood_allocation_model) | ML model behind BantayAyuda, AI-LLM Hackathon 2025 champion: emergency cash transfers for flood-affected households |
+| [`WeaveForward`](https://github.com/bakuncwa/WeaveForward) | Circular-economy textile donation platform with ML donation matching, on Cloud Run and Cloud SQL; behind the SMIT-ACI Student Research Forum 2026 Best Paper |
+
+## `~/stack`
+
+`languages/`
+<p>
+  <img src="https://img.shields.io/badge/Python-121412?style=for-the-badge&logo=python&logoColor=86B394" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-121412?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%2B%2B-121412?style=for-the-badge&logo=cplusplus&logoColor=86B394" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-121412?style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/PHP-121412?style=for-the-badge&logo=php&logoColor=86B394" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-121412?style=for-the-badge&logo=javascript&logoColor=86B394" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Kotlin-121412?style=for-the-badge&logo=kotlin&logoColor=86B394" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Dart-121412?style=for-the-badge&logo=dart&logoColor=86B394" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-121412?style=for-the-badge&logo=html5&logoColor=86B394" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-121412?style=for-the-badge&logo=css&logoColor=86B394" alt="CSS" />
+</p>
+
+`data_engineering/`
+<p>
+  <img src="https://img.shields.io/badge/BigQuery-121412?style=for-the-badge&logo=googlebigquery&logoColor=86B394" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Apache_Spark-121412?style=for-the-badge&logo=apachespark&logoColor=86B394" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Dataflow_%2F_Apache_Beam-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Dataflow / Apache Beam" />
+  <img src="https://img.shields.io/badge/Pub%2FSub-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Pub/Sub" />
+  <img src="https://img.shields.io/badge/Eventarc-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Eventarc" />
+  <img src="https://img.shields.io/badge/Cloud_Scheduler-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Cloud Scheduler" />
+  <img src="https://img.shields.io/badge/DuckDB-121412?style=for-the-badge&logo=duckdb&logoColor=86B394" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/SFTP_ingestion-121412?style=for-the-badge" alt="SFTP ingestion" />
+  <img src="https://img.shields.io/badge/SCD_Type_2-121412?style=for-the-badge" alt="SCD Type 2" />
+  <img src="https://img.shields.io/badge/Playwright-121412?style=for-the-badge&logo=playwright&logoColor=86B394" alt="Playwright" />
+</p>
+
+`machine_learning/`
+<p>
+  <img src="https://img.shields.io/badge/BigQuery_ML-121412?style=for-the-badge&logo=googlebigquery&logoColor=86B394" alt="BigQuery ML" />
+  <img src="https://img.shields.io/badge/XGBoost-121412?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/CatBoost-121412?style=for-the-badge" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/scikit--learn-121412?style=for-the-badge&logo=scikitlearn&logoColor=86B394" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-121412?style=for-the-badge&logo=tensorflow&logoColor=86B394" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Vertex_AI-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/Gemini_API-121412?style=for-the-badge&logo=googlegemini&logoColor=86B394" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/pandas-121412?style=for-the-badge&logo=pandas&logoColor=86B394" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-121412?style=for-the-badge&logo=numpy&logoColor=86B394" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pingouin-121412?style=for-the-badge" alt="Pingouin" />
+  <img src="https://img.shields.io/badge/Jupyter-121412?style=for-the-badge&logo=jupyter&logoColor=86B394" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-121412?style=for-the-badge&logo=googlecolab&logoColor=86B394" alt="Google Colab" />
+  <img src="https://img.shields.io/badge/Jamovi-121412?style=for-the-badge" alt="Jamovi" />
+</p>
+
+`cloud_and_devops/`
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Cloud_Run-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Cloud Run" />
+  <img src="https://img.shields.io/badge/Cloud_Functions-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Cloud Functions" />
+  <img src="https://img.shields.io/badge/Cloud_Storage-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Cloud Storage" />
+  <img src="https://img.shields.io/badge/Cloud_Build-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Cloud Build" />
+  <img src="https://img.shields.io/badge/Secret_Manager-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Secret Manager" />
+  <img src="https://img.shields.io/badge/Firebase_Hosting-121412?style=for-the-badge&logo=firebase&logoColor=86B394" alt="Firebase Hosting" />
+  <img src="https://img.shields.io/badge/Terraform-121412?style=for-the-badge&logo=terraform&logoColor=86B394" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-121412?style=for-the-badge&logo=docker&logoColor=86B394" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-121412?style=for-the-badge&logo=kubernetes&logoColor=86B394" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/DigitalOcean-121412?style=for-the-badge&logo=digitalocean&logoColor=86B394" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-121412?style=for-the-badge&logo=githubactions&logoColor=86B394" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS-121412?style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-121412?style=for-the-badge" alt="Microsoft Azure" />
+</p>
+
+`security_and_compliance/`
+<p>
+  <img src="https://img.shields.io/badge/PCI_DSS-121412?style=for-the-badge" alt="PCI DSS" />
+  <img src="https://img.shields.io/badge/Cloud_DLP-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Cloud DLP" />
+  <img src="https://img.shields.io/badge/Cloud_KMS-121412?style=for-the-badge&logo=googlecloud&logoColor=86B394" alt="Cloud KMS" />
+  <img src="https://img.shields.io/badge/Tokenization-121412?style=for-the-badge" alt="Tokenization" />
+</p>
+
+`backend/`
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-121412?style=for-the-badge&logo=fastapi&logoColor=86B394" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django_REST-121412?style=for-the-badge&logo=django&logoColor=86B394" alt="Django REST" />
+  <img src="https://img.shields.io/badge/Flask-121412?style=for-the-badge&logo=flask&logoColor=86B394" alt="Flask" />
+  <img src="https://img.shields.io/badge/Pydantic-121412?style=for-the-badge&logo=pydantic&logoColor=86B394" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/.NET-121412?style=for-the-badge&logo=dotnet&logoColor=86B394" alt=".NET" />
+  <img src="https://img.shields.io/badge/Postman-121412?style=for-the-badge&logo=postman&logoColor=86B394" alt="Postman" />
+</p>
+
+`frontend_and_mobile/`
+<p>
+  <img src="https://img.shields.io/badge/Vite-121412?style=for-the-badge&logo=vite&logoColor=86B394" alt="Vite" />
+  <img src="https://img.shields.io/badge/Leaflet.js-121412?style=for-the-badge&logo=leaflet&logoColor=86B394" alt="Leaflet.js" />
+  <img src="https://img.shields.io/badge/Chart.js-121412?style=for-the-badge&logo=chartdotjs&logoColor=86B394" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-121412?style=for-the-badge&logo=bootstrap&logoColor=86B394" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Figma-121412?style=for-the-badge&logo=figma&logoColor=86B394" alt="Figma" />
+  <img src="https://img.shields.io/badge/Android-121412?style=for-the-badge&logo=android&logoColor=86B394" alt="Android" />
+  <img src="https://img.shields.io/badge/Flutter-121412?style=for-the-badge&logo=flutter&logoColor=86B394" alt="Flutter" />
+</p>
+
+`databases/`
+<p>
+  <img src="https://img.shields.io/badge/Firestore-121412?style=for-the-badge&logo=firebase&logoColor=86B394" alt="Firestore" />
+  <img src="https://img.shields.io/badge/PostgreSQL-121412?style=for-the-badge&logo=postgresql&logoColor=86B394" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-121412?style=for-the-badge&logo=sqlalchemy&logoColor=86B394" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/MySQL-121412?style=for-the-badge&logo=mysql&logoColor=86B394" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MS_SQL-121412?style=for-the-badge" alt="MS SQL" />
+  <img src="https://img.shields.io/badge/SQLite-121412?style=for-the-badge&logo=sqlite&logoColor=86B394" alt="SQLite" />
+</p>
+
+`analytics/`
+<p>
+  <img src="https://img.shields.io/badge/Looker_Studio-121412?style=for-the-badge&logo=looker&logoColor=86B394" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Power_BI-121412?style=for-the-badge" alt="Power BI" />
+</p>
+
+`version_control/`
+<p>
+  <img src="https://img.shields.io/badge/Git-121412?style=for-the-badge&logo=git&logoColor=86B394" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-121412?style=for-the-badge&logo=github&logoColor=86B394" alt="GitHub" />
+</p>
+
+## `~/stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bakuncwa&show_icons=true&bg_color=0b0c0b&title_color=86B394&text_color=ecede8&icon_color=86B394&border_color=3d443d&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakuncwa&layout=compact&card_width=320&langs_count=6&bg_color=0b0c0b&title_color=86B394&text_color=ecede8&border_color=3d443d&hide_border=false" height="150" alt="Top languages" />
+</p>
+
+<p align="center"><sub>🀦 more at <a href="https://gy-almirol.web.app">gy-almirol.web.app</a></sub></p>
