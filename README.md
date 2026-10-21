@@ -1,8 +1,6 @@
 <h1 align="center">Gabrielle Ysabel Almirol</h1>
 <h3 align="center">Solutions Data Engineer · Systems Analyst & Designer · Full-Stack Systems Developer</h3>
 
-- How to reach me **gy.almirol@gmail.com**
-
 <h3 align="center">Connect with me:</h3> <p align="center"> <a href="https://linkedin.com/in/gabrielleysabelalmirol" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-121412?style=for-the-badge&logo=linkedin&logoColor=86B394" alt="LinkedIn"/> </a> <a href="https://instagram.com/ysabe1s" target="_blank"> <img src="https://img.shields.io/badge/Instagram-121412?style=for-the-badge&logo=instagram&logoColor=86B394" alt="Instagram"/> </a> <a href="https://gy-almirol.web.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-121412?style=for-the-badge&logo=firebase&logoColor=86B394" alt="Portfolio"/> </a> </p>
 
 ---
