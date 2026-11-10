@@ -146,4 +146,3 @@
 </div>
 
 <p align="center"><img src="assets/paper/divider-0.png" alt="" width="420" /></p>
-<p align="center"><sub><i>Lilies drawn in ASCII, after <a href="https://github.com/bakuncwa/prog2200_assign2">my C# screen saver</a>. Paper from a vintage collage.</i></sub></p>
