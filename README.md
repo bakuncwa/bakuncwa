@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gy-almirol.web.app"><img src="assets/paper/banner.webp" alt="Gabrielle Ysabel Almirol: Solutions Data Engineer, Systems Analyst & Designer, Full-Stack Developer. An ASCII lily garden window on torn vintage paper." width="100%" /></a>
+  <a href="https://gy-almirol.web.app"><img src="assets/paper/banner.webp" alt="Gabrielle Ysabel Almirol: Solutions Data Engineer, Systems Analyst & Designer, Full-Stack Developer. An ASCII lily bouquet in a window on torn vintage paper." width="100%" /></a>
 </p>
 
 <p align="center"> <a href="https://linkedin.com/in/gabrielleysabelalmirol" target="_blank"> <img src="assets/badges/linkedin.svg" alt="LinkedIn"/> </a> <a href="https://instagram.com/ysabe1s" target="_blank"> <img src="assets/badges/instagram.svg" alt="Instagram"/> </a> <a href="https://gy-almirol.web.app" target="_blank"> <img src="assets/badges/portfolio.svg" alt="Portfolio"/> </a> </p>
@@ -141,8 +141,8 @@
 <h2 align="center"><sub>II.</sub> <i>Statistics</i></h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bakuncwa&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&bg_color=f7f1e6&title_color=3a5245&text_color=2e2419&icon_color=4f6b5a&border_color=b8a586&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakuncwa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=f7f1e6&title_color=3a5245&text_color=2e2419&icon_color=4f6b5a&border_color=b8a586&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=bakuncwa&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&bg_color=f6f6f4&title_color=161616&text_color=2b2f32&icon_color=50565b&border_color=9b9ea0&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakuncwa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=f6f6f4&title_color=161616&text_color=2b2f32&icon_color=50565b&border_color=9b9ea0&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <p align="center"><img src="assets/paper/divider-0.png" alt="" width="420" /></p>
