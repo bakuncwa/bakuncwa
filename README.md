@@ -1,12 +1,12 @@
-<h1 align="center">Gabrielle Ysabel Almirol</h1>
-<h3 align="center">Solutions Data Engineer · Systems Analyst & Designer · Full-Stack Systems Developer</h3>
+<p align="center">
+  <a href="https://gy-almirol.web.app"><img src="assets/paper/banner.webp" alt="Gabrielle Ysabel Almirol: Solutions Data Engineer, Systems Analyst & Designer, Full-Stack Developer. An ASCII lily garden window on torn vintage paper." width="100%" /></a>
+</p>
 
-<h3 align="center">Connect with me:</h3> <p align="center"> <a href="https://linkedin.com/in/gabrielleysabelalmirol" target="_blank"> <img src="assets/badges/linkedin.svg" alt="LinkedIn"/> </a> <a href="https://instagram.com/ysabe1s" target="_blank"> <img src="assets/badges/instagram.svg" alt="Instagram"/> </a> <a href="https://gy-almirol.web.app" target="_blank"> <img src="assets/badges/portfolio.svg" alt="Portfolio"/> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/gabrielleysabelalmirol" target="_blank"> <img src="assets/badges/linkedin.svg" alt="LinkedIn"/> </a> <a href="https://instagram.com/ysabe1s" target="_blank"> <img src="assets/badges/instagram.svg" alt="Instagram"/> </a> <a href="https://gy-almirol.web.app" target="_blank"> <img src="assets/badges/portfolio.svg" alt="Portfolio"/> </a> </p>
 
----
+<p align="center"><img src="assets/paper/divider-1.png" alt="" width="420" /></p>
 
-
-<h2 align="center">Technology Stack</h2>
+<h2 align="center"><sub>I.</sub> <i>Technology Stack</i></h2>
 <p align="center">
   
 ### Programming
@@ -136,12 +136,14 @@
 
 </p>
 
----
+<p align="center"><img src="assets/paper/divider-3.png" alt="" width="420" /></p>
 
-
-<h2 align="center">Statistics</h2>
+<h2 align="center"><sub>II.</sub> <i>Statistics</i></h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=bakuncwa&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&bg_color=1c1c19&title_color=a8c9b4&text_color=ece8df&icon_color=a8c9b4&border_color=2f2e2a&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakuncwa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=1c1c19&title_color=a8c9b4&text_color=ece8df&icon_color=a8c9b4&border_color=2f2e2a&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=bakuncwa&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&bg_color=f7f1e6&title_color=3a5245&text_color=2e2419&icon_color=4f6b5a&border_color=b8a586&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bakuncwa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=f7f1e6&title_color=3a5245&text_color=2e2419&icon_color=4f6b5a&border_color=b8a586&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<p align="center"><img src="assets/paper/divider-0.png" alt="" width="420" /></p>
+<p align="center"><sub><i>Lilies drawn in ASCII, after <a href="https://github.com/bakuncwa/prog2200_assign2">my C# screen saver</a>. Paper from a vintage collage.</i></sub></p>
